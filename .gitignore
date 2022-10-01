@@ -1,0 +1,7 @@
+
+venv
+.idea
+
+mail_password.txt
+sekretkey.txt
+db.sqlite3
